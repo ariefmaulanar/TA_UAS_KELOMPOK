@@ -1,0 +1,73 @@
+.judulbox {
+
+    line-height: 1.3em; /* Sets line height to 1.5 times text size */
+    height: 4em; /* Sets the div height to 2x line-height (3 times text size) */
+    width: 100%; /* Use whatever width you want */
+    white-space: normal; /* Wrap lines of text */
+    overflow: hidden; /* Hide text that goes beyond the boundaries of the div */
+    text-overflow: ellipsis; /* Ellipses (cross-browser) */
+    -o-text-overflow: ellipsis; /* Ellipses (cross-browser) */
+}
+
+.fontsize2{
+  font-size: 5px;
+}
+
+.image {
+  max-height: 500px;
+  height: 70%;
+  width: auto;
+  object-fit: cover;
+  object-position: center;
+}
+.login {
+        padding: 1em;
+        margin: 2em auto;
+        width: 17em;
+        background: #1c1c1c;
+        border-radius: 3px;
+        box-shadow: 0px 0px 100px 4px #2e2e2e;
+      }
+.stay-open{
+	display: block !important;
+}
+.purple-gradient {
+  background: -webkit-linear-gradient(50deg, #ff6ec4, #7873f5) !important;
+  background: -o-linear-gradient(50deg, #ff6ec4, #7873f5) !important;
+  background: linear-gradient(40deg, #ff6ec4, #7873f5) !important; }
+
+.peach-gradient {
+  background: -webkit-linear-gradient(50deg, #FFD86F, #FC6262) !important;
+  background: -o-linear-gradient(50deg, #FFD86F, #FC6262) !important;
+  background: linear-gradient(40deg, #FFD86F, #FC6262) !important; }
+
+.aqua-gradient {
+  background: -webkit-linear-gradient(50deg, #2096ff, #05ffa3) !important;
+  background: -o-linear-gradient(50deg, #2096ff, #05ffa3) !important;
+  background: linear-gradient(40deg, #2096ff, #05ffa3) !important; }
+
+.blue-gradient {
+  background: -webkit-linear-gradient(50deg, #45cafc, #303f9f) !important;
+  background: -o-linear-gradient(50deg, #45cafc, #303f9f) !important;
+  background: linear-gradient(40deg, #45cafc, #303f9f) !important; }
+
+.purple-gradient-rgba {
+  background: -webkit-linear-gradient(50deg, rgba(255, 110, 196, 0.9), rgba(120, 115, 245, 0.9)) !important;
+  background: -o-linear-gradient(50deg, rgba(255, 110, 196, 0.9), rgba(120, 115, 245, 0.9)) !important;
+  background: linear-gradient(40deg, rgba(255, 110, 196, 0.9), rgba(120, 115, 245, 0.9)) !important; }
+
+.peach-gradient-rgba {
+  background: -webkit-linear-gradient(50deg, rgba(255, 216, 111, 0.9), rgba(252, 98, 98, 0.9)) !important;
+  background: -o-linear-gradient(50deg, rgba(255, 216, 111, 0.9), rgba(252, 98, 98, 0.9)) !important;
+  background: linear-gradient(40deg, rgba(255, 216, 111, 0.9), rgba(252, 98, 98, 0.9)) !important; }
+
+.aqua-gradient-rgba {
+  background: -webkit-linear-gradient(50deg, rgba(32, 150, 255, 0.9), rgba(5, 255, 163, 0.9)) !important;
+  background: -o-linear-gradient(50deg, rgba(32, 150, 255, 0.9), rgba(5, 255, 163, 0.9)) !important;
+  background: linear-gradient(40deg, rgba(32, 150, 255, 0.9), rgba(5, 255, 163, 0.9)) !important; }
+
+.blue-gradient-rgba {
+  background: -webkit-linear-gradient(50deg, rgba(69, 202, 252, 0.9), rgba(48, 63, 159, 0.9)) !important;
+  background: -o-linear-gradient(50deg, rgba(69, 202, 252, 0.9), rgba(48, 63, 159, 0.9)) !important;
+  background: linear-gradient(40deg, rgba(69, 202, 252, 0.9), rgba(48, 63, 159, 0.9)) !important; }
+ /* The sidebar menu */

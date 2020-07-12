@@ -1,0 +1,3 @@
+<h2>Tentang TUKUTUH.id</h2>
+<h3>Apa itu TUKUTUH.id ?</h3>
+<p>Sebuah aplikasi jual beli khusus sepatu dan kaos kaki, Kami mengambil kata Tuku dari bahasa jawa yang artinya beli, karena rata rata pekerja disini kebanyakan dari jawa semua. Tukutu.id dulunya hanya untuk iseng iseng saja, setelah mendalami ilmu jual beli ternyata sangat menguntungkan dan bisa sampai saat ini. Target kami adalah kaum milenial dan suka bergaya dengan sepatu mereka. aplikasi ini sangat cocok sekali dengan anak muda. </p>
