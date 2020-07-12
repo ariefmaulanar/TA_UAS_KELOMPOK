@@ -15,5 +15,5 @@ how to access admin
 http://localhost/tes/EcommerceTA/
 
 access with username : Masarip ||
-            password : 12345678 ||
+            password : 12345678 || or
             Register.
